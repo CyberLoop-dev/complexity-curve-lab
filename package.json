@@ -1,0 +1,11 @@
+{
+  "name": "complexity-curve-lab",
+  "version": "1.0.0",
+  "description": "An interactive browser chart for comparing common algorithmic growth curves on a logarithmic scale.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
